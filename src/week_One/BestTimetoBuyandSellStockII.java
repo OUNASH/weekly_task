@@ -1,10 +1,10 @@
-p/*
+/*
 Input: prices = [1,2,3,4,5]
 Output: 4
 Explanation: Buy on day 1 (price = 1) and sell on day 5 (price = 5), profit = 5-1 = 4.
 Total profit is 4.
  */
-        ublic class BestTimetoBuyandSellStockII {
+        public class BestTimetoBuyandSellStockII {
     public int maxProfit(int[] prices) {
 
         int profit = 0 ;
