@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c6d841-5a14-45e1-ab18-146fda9dfcb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/weekly_task/week_two/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekly_task/week_two/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly_task/week_three/IntersectionofTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly_task/week_three/PluSOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_One/BestTimetoBuyandSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekly_task/week_one/BestTimetoBuyandSellStockII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_One/RemoveDuplicatesfromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekly_task/week_one/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_One/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekly_task/week_one/RotateArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
